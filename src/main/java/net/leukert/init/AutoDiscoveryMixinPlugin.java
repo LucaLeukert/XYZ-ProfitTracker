@@ -1,4 +1,4 @@
-package com.github.lucaleukert.xyzprofittracker.init;
+package net.leukert.init;
 
 import org.spongepowered.asm.lib.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;

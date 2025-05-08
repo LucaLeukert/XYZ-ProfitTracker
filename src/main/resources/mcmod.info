@@ -1,8 +1,8 @@
 [
   {
     "modid": "${modid}",
-    "name": "Xample Mod",
-    "description": "A mod that is used as an example.",
+    "name": "XYZ Helper Mod",
+    "description": "A mod that tracks profits on Hypixel by farming XYZs.",
     "version": "${version}",
     "mcversion": "${mcversion}",
     "url": "https://github.com/romangraef/Forge1.8.9Template/",
